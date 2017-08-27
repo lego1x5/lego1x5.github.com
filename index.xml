@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://lego1x5.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Aug 2017 17:18:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://lego1x5.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://lego1x5.github.io/about/</link>
+      <pubDate>Sat, 26 Aug 2017 17:18:21 +0800</pubDate>
+      
+      <guid>https://lego1x5.github.io/about/</guid>
+      <description> 一个测试页面 关于我 其实我是 谁不重要吗？。123 </description>
+    </item>
+    
+  </channel>
+</rss>
